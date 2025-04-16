@@ -1,0 +1,17 @@
+Linh kiện	Số lượng
+Raspberry pi zeor 2W	1
+Thẻ nhớ	1
+Camera Raspberry	1
+Module gia tốc MPU6050	1
+Dây điện 	2
+Cảm biến rung SW-420	1
+Cảm biến độ nghiêng SW-520	1
+Cảm biến hồng ngoại LM393	1
+Relay 5V	1
+Cảm biến lực RFP602 2kg	2
+Cảm biến lực FSR402	2
+GY_GPS NEO6M	1
+ADS115 	1
+RFID	1
+Tản Rasp	1
+Mũ bảo hiểm	1
