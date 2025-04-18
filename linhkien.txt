@@ -13,5 +13,9 @@ Cảm biến lực FSR402	2
 GY_GPS NEO6M	1
 ADS115 	1
 RFID	1
-Tản Rasp	1
+nhôm tản Rasp	1
+SIM900A        1
+Buck DC-DC LM2596 3A Có Led hiển thị điện áp (Vào 4-35VDC Ra 1-30VDC)   1
+PIN li-ion      2
+Tấm pin mặt trời 1
 Mũ bảo hiểm	1
